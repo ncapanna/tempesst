@@ -200,6 +200,18 @@ footer nav .fa,
   text-transform: uppercase;
   color: white;
 }
+.button-rev {
+  background-color: #464646; /* featured color */
+  border: 4px solid #32cd32;
+  border-radius: 5px;
+  padding: 0.5em 3em;
+  margin: 1em auto;
+  display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: white;
+}
+
 .button-inverted {
     border: 2px solid #464646;
     color: white;
@@ -230,7 +242,7 @@ footer nav .fa,
 /* Customising the snipcart pop-up */
 .snip-layout .snip-header,
 .snip-layout .snip-footer {
-  background-color:  #1abc9c; /* featured color */
+  background-color:  #32cd32; /* featured color */
 }
 .snip-layout .snip-footer__copyright {
   color: white;
