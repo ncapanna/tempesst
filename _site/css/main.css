@@ -135,7 +135,8 @@ nav a {
     color: #33ff33;
 }
 nav a:hover {
-  color: #464646; /* featured color */
+  color: #32cd32; /* featured color */
+  text-decoration: underline;;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
