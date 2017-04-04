@@ -311,17 +311,17 @@ form [class*=col-] {
 }
 
 .systems-bg {
-background-image: url('/images/systems4.jpg');
+background-image: url('/images/cr-systems1.jpg');
 min-height: 30vh;
 }
 
 .va-bg {
-background-image: url('/images/va3.jpg');
+background-image: url('/images/cr-virtual1.jpg');
 min-height: 30vh;
 }
 
 .transcriptions-bg {
-background-image: url('/images/transcriptions3.jpg');
+background-image: url('/images/cr-transcriptions1.jpg');
 min-height: 30vh;
 }
 
