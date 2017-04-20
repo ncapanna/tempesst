@@ -1,11 +1,7 @@
 ---
-
 layout: post
-
 title: This is a wonderful blog post
-
-category: travel
-
+category: business
 ---
 
 ### Oh Yea, It's really great
