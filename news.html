@@ -16,17 +16,17 @@ title: News
 
  <div class="blog-post">
 
- <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+ <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
 
  <p class="summary">
 
- {{ post.category }}
-
- <span class="date">
-
- {{ post.date | date: '%B %d, %Y' }}
-
- </span>
+     {{ post.category }}
+    
+     <span class="date">
+    
+     {{ post.date | date: '%B %d, %Y' }}
+    
+     </span>
 
  </p>
 
