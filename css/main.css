@@ -128,7 +128,8 @@ a:hover {
   color: #32cd32;
 }
 
-a .design{
+.design
+a {
     text-decoration: underline;
     padding: 1em;
     color: #ffffff;
