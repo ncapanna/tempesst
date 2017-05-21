@@ -131,12 +131,11 @@ a:hover {
 .design
 a {
     text-decoration: underline;
-    color: #ffffff;
+    color: #32cd32;
 }
 .design
     p  { 
         font-size: 0.75rem;
-        
     }
 
 /* ----- HEADER & FOOTER --------------------------- */
