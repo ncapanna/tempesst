@@ -131,9 +131,13 @@ a:hover {
 .design
 a {
     text-decoration: underline;
-    font: 14pt;
     color: #ffffff;
 }
+.design
+    p  { 
+        font-size: 0.75rem;
+        
+    }
 
 /* ----- HEADER & FOOTER --------------------------- */
 nav a {
