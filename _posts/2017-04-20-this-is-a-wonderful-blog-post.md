@@ -1,9 +1,9 @@
 ---
 layout: post
-title: This is a wonderful blog post
-category: business
+title: How to ensure a clear audio recording for transcription
+category: transcription
 ---
 
-### Oh Yea, It's really great
+### How to ensure a clear audio recording for transcription
 
 Wouldn't it be wonderful to read this blog? Absolutely, that's why I've written it.
