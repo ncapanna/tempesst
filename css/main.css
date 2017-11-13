@@ -45,13 +45,13 @@ img {
 
 .about_img{
     height: 210px;
-    width: 300px;
+    width: 20%;
     float: left;
     background:black;
 }
 
 .blog_text{
-    width: 865px;
+    width: 78%;
     background: red;
     float: right;
     height: 210px;
