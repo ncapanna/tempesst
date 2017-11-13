@@ -44,17 +44,17 @@ img {
 
 
 .about_img{
-    height: 300px;
+    height: 210px;
     width: 300px;
     float: left;
     background:black;
 }
 
 .blog_text{
-    width: 600px;
+    width: 865px;
     background: red;
     float: right;
-    height:400px;
+    height: 210px;
 }
 
 .blogheading{
