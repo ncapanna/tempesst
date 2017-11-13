@@ -37,7 +37,6 @@ img {
 
 .blog_container {
     width: 100%;
-    background:yellow;
     min-height:250px;
     
 }
@@ -51,7 +50,6 @@ img {
 
 .blog_text{
     width: 78%;
-    background: red;
     float: right;
     min-height: 210px;
 }
