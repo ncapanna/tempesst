@@ -46,7 +46,9 @@ img {
     min-height: 210px;
     width: 20%;
     float: left;
+    overflow:hidden;
 }
+
 
 .blog_text{
     width: 78%;
