@@ -59,7 +59,11 @@ img {
 }
 
 a.button.primary {
-    color: #ffffff;
+color: #fff;
+    width: 139px;
+    font-size: 11px;
+    padding: 5px;
+    text-align: center;
 }
 
 
