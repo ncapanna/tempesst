@@ -41,14 +41,14 @@ img {
 
 .about_img{
     min-height: 210px;
-    width: 20%;
+    width: 30%;
     float: left;
     overflow:hidden;
 }
 
 
 .blog_text{
-    width: 78%;
+    width: 68%;
     float: right;
     min-height: 210px;
 }
