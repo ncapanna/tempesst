@@ -37,22 +37,24 @@ img {
 
 .blog_container {
     width: 100%;
+    background:yellow;
+    height:400px;
+    
 }
 
 
 .about_img{
     height: 300px;
-    width: 400px;
+    width: 300px;
     float: left;
-    margin-left: -25px;
+    background:black;
 }
 
 .blog_text{
-font-size: 14px;
-    text-align: left;
-    width: 980px;
+    width: 600px;
     background: red;
     float: right;
+    height:400px;
 }
 
 .blogheading{
