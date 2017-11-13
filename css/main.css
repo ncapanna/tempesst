@@ -26,6 +26,46 @@ img {
   max-width: 100%; /* This ensures an image never breaks it's container */
 }
 
+
+
+
+
+
+
+
+.blue-background {
+    
+    width: 100%;
+}
+
+
+.about_img{
+    height: 100%;
+    width: 100%;
+    float: left;
+    clear: both;
+    margin-left: -15px;
+}
+
+.blogtext{
+  font-size: 14px;
+    text-align: left;
+}
+
+.blogheading{
+    text-align:left;
+}
+
+a.button.primary {
+    color: #ffffff;
+}
+
+
+
+
+
+
+
 [class*=grid-][class*=-equalHeight]>[class*=col] {
   display:block;
   /* This overrides a quirk with gridlex where contents inside of equal height containers become columns themselves */
