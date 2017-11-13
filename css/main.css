@@ -38,23 +38,22 @@ img {
 .blog_container {
     width: 100%;
     background:yellow;
-    height:400px;
+    min-height:250px;
     
 }
 
 
 .about_img{
-    height: 210px;
+    min-height: 210px;
     width: 20%;
     float: left;
-    background:black;
 }
 
 .blog_text{
     width: 78%;
     background: red;
     float: right;
-    height: 210px;
+    min-height: 210px;
 }
 
 .blogheading{
